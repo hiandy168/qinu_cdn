@@ -1,0 +1,3 @@
+.idea/
+*.pyc
+/octopus/site_conf/site.conf
